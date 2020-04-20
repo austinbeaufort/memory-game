@@ -1,0 +1,11 @@
+.card-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 10px;
+}
+
+.display-board {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
